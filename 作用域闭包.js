@@ -16,7 +16,7 @@
 // for (let i = 0; i < 10; i++) {
 // 	arr9.push((() => i));
 // }
-// console.log(arr9[3]()); 
+// console.log(arr9[3]());
 // var arr2 = [];
 // for (var i = 0; i < 10; i++) {
 //   (function (a) {
@@ -41,3 +41,5 @@
 //     }
 //   };
 //   console.log(hd.get()()); //undefined
+
+
